@@ -4,17 +4,12 @@ title:  "Mudryk al Chelsea"
 date:   2023-11-17 10:55:20 +0700
 categories: jekyll update
 usemathjax: true
-tag:
-  - tips
-  - git
-  - software
-image: /home/hugo/repositorios/jekyll-klise/_posts/mi-segundo-post/cai.jpeg
 ---
 
 ## Oficial, Mykhailo Mudryk al Chelsea 
  
  <figure>
-<img src="/home/hugo/repositorios/jekyll-klise/_posts/mi-segundo-post/cai.jpeg" alt="foto de caicedo">
+<img src="/jekyll-klise/_posts/mi-segundo-post/mud.jpeg" alt="foto de caicedo">
 
 </figure>
 Ahora sí. El Chelsea ha hecho oficial el fichaje de Mykhailo Mudryk y pagará al Shakhtar Donetsk entre 70 y 100 millones de euros en función de diferentes objetivos.
