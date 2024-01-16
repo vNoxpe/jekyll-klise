@@ -5,30 +5,21 @@ description: >- # site description
   for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Europa/España # set your timezone
-image: /assets/img/chelsea.png # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/mercato.jpeg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
-<<<<<<< HEAD
 author:
-  name: El Mercato de Fichajes  # author name
+  name: El Mercato  # author name
   bio: >- # tell to the world
-    Aqui vereís todos los fichajes que ocurran a lo largo del mercado de fichajes de invierno
+    Aqui vereís todos los fichajes que ocurran durante el mercado de invierno
   username: username # general username
   github: github_username # github username
-=======
-author: Hugo y Cristian
-  name: Nuestra página de fichajes  # author name
-  bio: >- # tell to the world
-    Aqui vereís todos los fichajes que se hagan a nivel global
-  username: Cristian15_02 y Vnoxpe # general username
-  github: Cristian1203 y Vnoxpe # github username
->>>>>>> 8c467152e600923153bbe45da5402c2f5bdc48da
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: cristian02ssm@gmail.com hugo.calvoaja@iesmiguelherrero.com # email adress
-  avatar: /assets/img/chelsea.png # change with your own avatar
+  email: your-email@email.com # email adress
+  avatar: /assets/img/mercato.jpeg # change with your own avatar
 
 # URL settings
 url: "https://klise.now.sh" #
