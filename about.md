@@ -1,9 +1,9 @@
 ---
-title: Acerca de mi
+title: Información personal
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Nuestra pagina de fichajes
 comments: false
 ---
 
-Soy un estudian español que vive en cantabria,y este es un blog dedicado a los fichajes del chelsea. 
+Somos Cristian y Hugo y estamos en 2º de ASIR y esta es nuestra página de fichajes ya que somos fans del fútbol .
