@@ -14,7 +14,8 @@ image: /Mi-primer-post/cai.jpeg
 ## El Chelsea ficha a Moisés Caicedo por 133 millones de euros
 
 
-![caicedo](/home/hugo/repositorios/jekyll-klise/_posts/Mi-primer-post/cai.jpeg)
+![image](https://github.com/vNoxpe/jekyll-klise/assets/151034282/84a7ae74-2059-4e1e-a1e9-777e85e520ef)
+
  
 Y saltó la bomba. El Chelsea rompe la banca y ficha a su gran ambición de 2023: Moisés Caicedo es 'blue'. El ecuatoriano deja el Brighton tras ser uno de los jugadores revelación de la pasada Premier y llega a Stamford Bridge a cambio de 115 millones de libras. Es decir, 133 millones de euros. Se convierte en el fichaje más caro de la historia de la Premier League.
 El internacional por Ecuador ha pasado reconocimiento médico y, como viene siendo habitual en todos los fichajes del Chelsea para distribuir la amortización y tener un Fair Play Financiero más favorable, firma contrato largo: en ste caso, hasta 2031 con opción a ampliar el vínculo hasta 2032.
