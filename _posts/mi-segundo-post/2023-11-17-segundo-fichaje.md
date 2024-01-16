@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Djaló rumbo a Turín"
-date:   2023-11-17 10:55:20 +0700
+date:   2024-01-16 10:55:20 +0700
 categories: jekyll update
 usemathjax: true
 ---
