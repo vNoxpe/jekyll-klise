@@ -10,15 +10,24 @@ repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
+<<<<<<< HEAD
 author:
-  name: Mi página de fichajes  # author name
+  name: El Mercato de Fichajes  # author name
   bio: >- # tell to the world
-    Aqui vereís todos los fichajes que haga el chelsea
+    Aqui vereís todos los fichajes que ocurran a lo largo del mercado de fichajes de invierno
   username: username # general username
   github: github_username # github username
+=======
+author: Hugo y Cristian
+  name: Nuestra página de fichajes  # author name
+  bio: >- # tell to the world
+    Aqui vereís todos los fichajes que se hagan a nivel global
+  username: Cristian15_02 y Vnoxpe # general username
+  github: Cristian1203 y Vnoxpe # github username
+>>>>>>> 8c467152e600923153bbe45da5402c2f5bdc48da
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: cristian02ssm@gmail.com hugo.calvoaja@iesmiguelherrero.com # email adress
   avatar: /assets/img/chelsea.png # change with your own avatar
 
 # URL settings
