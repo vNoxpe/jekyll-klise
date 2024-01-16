@@ -1,24 +1,16 @@
 ---
 layout: post
-title:  "El Chelsea ficha a Moisés Caicedo"
-date:   2023-11-17 10:55:20 +0700
+title:  "Timo Werner rumbo a la premier"
+date:   2024-01-16 10:55:20 +0700
 categories: jekyll update
 usemathjax: true
-tag:
-  - tips
-  - git
-  - software
-image: /Mi-primer-post/cai.jpeg
 ---
+## El alemán llega a los Spurs
+![image](https://github.com/vNoxpe/jekyll-klise/assets/151034282/c868c5b4-a5cf-4ec8-98e3-b73f9fea7417)
 
-## El Chelsea ficha a Moisés Caicedo por 133 millones de euros
+Timo Werner en cerró el acuerdo con el Tottenham. Y es que es en el norte de Londres donde el atacante alemán pretenderá finalmente ganarse un hueco en la convocatoria de Julian Nagelsmann para la Eurocopa de Alemania 2024. “Estamos encantados de anunciar el fichaje de Timo Werner cedido por el RB Leipzig, que es el rival del Real Madrid en los octavos de final de la Champions. El internacional alemán se incorporará al club en calidad de cedido hasta final de temporada, con opción a hacer el trato definitivo en verano. Llevará la camiseta número 16”, han anunciado los spurs a través de un comunicado.
 
-
-![image](https://github.com/vNoxpe/jekyll-klise/assets/151034282/84a7ae74-2059-4e1e-a1e9-777e85e520ef)
-
- 
-Y saltó la bomba. El Chelsea rompe la banca y ficha a su gran ambición de 2023: Moisés Caicedo es 'blue'. El ecuatoriano deja el Brighton tras ser uno de los jugadores revelación de la pasada Premier y llega a Stamford Bridge a cambio de 115 millones de libras. Es decir, 133 millones de euros. Se convierte en el fichaje más caro de la historia de la Premier League.
-El internacional por Ecuador ha pasado reconocimiento médico y, como viene siendo habitual en todos los fichajes del Chelsea para distribuir la amortización y tener un Fair Play Financiero más favorable, firma contrato largo: en ste caso, hasta 2031 con opción a ampliar el vínculo hasta 2032.
+Si bien el exjugador del Chelsea estuvo en contacto con el Manchester United, interesado en reforzar su ataque con el delantero de 27 años, Ange Postecoglou ha sido quien se ha hecho con el préstamo de Timo Werner durante los próximos seis meses. En Inglaterra apuntan que el jugador estaría deseoso de ponerse a las órdenes del técnico greco-australiano, quien en pocos meses le ha cambiado la cara al cuadro londinense. Un acuerdo que incluirá una opción de compra no obligatoria de entre 17 y 18 millones de euros, además de ser el Tottenham quien asumirá la totalidad de la ficha del jugador durante el tiempo que esté cedido en el Tottenham Hotspur Stadium.
 
 Mas informacion aquí
-[MARCA](https://www.marca.com/futbol/premier-league/2023/08/14/64d953ca22601d464d8b45c3.html)
+[AS](https://as.com/futbol/internacional/oficial-werner-vuelve-a-la-premier-n/)
