@@ -6,5 +6,5 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-Somos hugo y cristian de asir2 y esta es nuestra pagina web dedicada a el mercado de fichajes
+Somos Hugo y Cristian de Asir2 y esta es nuestra página web dedicada a el mercado de fichajes.
 
