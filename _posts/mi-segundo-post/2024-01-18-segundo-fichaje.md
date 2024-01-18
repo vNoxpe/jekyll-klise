@@ -15,3 +15,4 @@ Uno de los últimos en sonar ha sido el joven Tiago Djaló. Han sido varios los 
 Por ello, y tal y como apuntó 'La Gazzetta dello Sport', la Juventus de Turín es la principal favorita para hacerse con sus servicios. Dicho medio apunta a que se hará con el zaguero de 23 años por una cantidad cercana a los 3 millones de euros.
 
 [Besoccer](https://es.besoccer.com/noticia/juventus-fichaje-tiago-djalo-lille-1297635)
+

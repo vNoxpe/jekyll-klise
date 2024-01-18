@@ -12,3 +12,4 @@ Vitor Roque ya es futbolista del FC Barcelona a todos los efectos para las próx
 
 Mas informacion aquí
 [SPORT](https://www.sport.es/es/noticias/barca/oficial-vitor-roque-ficha-barca-89701204)
+
