@@ -1,18 +1,17 @@
 ---
 layout: post
-title:  "Mudryk al Chelsea"
-date:   2023-11-17 10:55:20 +0700
+title:  "Djaló rumbo a Turín"
+date:   2024-01-16 10:55:20 +0700
 categories: jekyll update
 usemathjax: true
 ---
+## Tiago Djaló es nuevo jugador de la Juventus
+![image](https://github.com/vNoxpe/jekyll-klise/assets/151034282/553d79bf-f2bf-4b56-a1bb-51ffa2e0ad44)
 
-## Oficial, Mykhailo Mudryk al Chelsea 
- 
- <figure>
-<img src="/jekyll-klise/_posts/mi-segundo-post/mud.jpeg" alt="foto de caicedo">
+El mercado de fichajes invernal llega a su ecuador y los distintos equipos apuran sus últimas opciones para reforzar sus plantillas para la segunda parte de la temporada. En una ventana donde no se esperan grandes movimientos, las gangas siguen entrando en escena.
 
-</figure>
-Ahora sí. El Chelsea ha hecho oficial el fichaje de Mykhailo Mudryk y pagará al Shakhtar Donetsk entre 70 y 100 millones de euros en función de diferentes objetivos.
-El futbolista de 22 años firma por ocho temporadas y media con el conjunto londinense, dirigido por el técnico Graham Potter.
-"Este es un club enorme, en una liga fantástica y es un proyecto muy atractivo para mí en esta etapa de mi carrera. Estoy emocionado de conocer a mis nuevos compañeros de equipo y tengo muchas ganas de trabajar y aprender con Graham Potter y su personal", ha asegurado Mudryck.
-[SPORT](https://www.sport.es/es/noticias/premier-league/oficial-mykhailo-mudryk-chelsea-81212316)
+Uno de los últimos en sonar ha sido el joven Tiago Djaló. Han sido varios los equipos en postularse para hacerse con los servicios del central del Lille, que acaba contrato en junio del 2024 y era la última oportunidad para que el conjunto galo ingresase algo de dinero con su venta.
+
+Por ello, y tal y como apuntó 'La Gazzetta dello Sport', la Juventus de Turín es la principal favorita para hacerse con sus servicios. Dicho medio apunta a que se hará con el zaguero de 23 años por una cantidad cercana a los 3 millones de euros.
+
+[Besoccer](https://es.besoccer.com/noticia/juventus-fichaje-tiago-djalo-lille-1297635)
