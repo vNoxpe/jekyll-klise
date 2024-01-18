@@ -6,4 +6,5 @@ excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in
 comments: false
 ---
 
-Soy un estudian español que vive en cantabria,y este es un blog dedicado a los fichajes del chelsea. 
+Somos hugo y cristian de asir2 y esta es nuestra pagina web dedicada a el mercado de fichajes
+
